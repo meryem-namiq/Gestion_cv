@@ -1,0 +1,79 @@
+
+h1{
+	color: #87035B;
+}
+
+ div#c div{
+display: inline-block;
+width: 48%;
+}
+
+div#c div.left{
+vertical-align: top;
+}
+
+div#c div.left h1,p{
+margin: 10px;
+}
+
+div#c div.left p{
+font-size: 20px;
+} 
+
+
+nav.menun ul li{
+	display: inline;
+	list-style-type: none;
+}
+
+nav.menun ul li a{
+	color: #BE0696; 
+	text-decoration: none;
+	padding-right: 10px;
+	font-size: 20px;
+}
+
+nav.menun ul li:hover a{
+	color: #F20071;
+	transition: 0.5s all ;
+}
+
+
+img.iag{
+	padding-left: 400px; 
+}
+
+
+textarea{
+	height: 30em;
+	width: 75em;
+}
+input.ID{
+	
+	width: 200px;
+	height: 30px;
+	font-family: century;
+	font-size: 14px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+input{
+	
+	width: 700px;
+	height: 30px;
+	font-family: century;
+	font-size: 14px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+input.bu{
+	
+	width: 100px;
+	height: 30px;
+	font-family: century;
+	font-size: 14px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	background-color: red;
+	color: red;
+}
